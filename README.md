@@ -32,42 +32,42 @@ Tkinter (usually pre-installed)
 💡 Usage Example
 <br>
 Enter 100, select Celsius, and click Convert:
-
+<br>
 Fahrenheit: 212.00
-
+<br>
 Kelvin: 373.15
 
 ▶ How to Run
 <br>
 Clone this repository:
-
+<br>
 git clone https://github.com/riyaagarkar/SCT_SD_1.git
-
+<br>
 cd SCT_SD_1
-
+<br>
 Run the script:
-
+<br>
 sh
-
+<br>
 python temperature_converter.py
 <br>
 
 🧠 Conversion Formulas
 <br>
 Celsius → Fahrenheit: (°C × 9/5) + 32
-
+<br>
 Celsius → Kelvin: °C + 273.15
-
+<br>
 Fahrenheit → Celsius: (°F - 32) × 5/9
-
+<br>
 Fahrenheit → Kelvin: ((°F - 32) × 5/9) + 273.15
-
+<br>
 Kelvin → Celsius: K - 273.15
-
+<br>
 Kelvin → Fahrenheit: ((K - 273.15) × 9/5) + 32
-
+<br>
 🤝 Contributing
-
+<br>
 Contributions are welcome! Please open an issue or pull request.
 
 🏷 Developed By
