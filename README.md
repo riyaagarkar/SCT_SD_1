@@ -11,6 +11,7 @@ Select the input unit (Celsius, Fahrenheit, or Kelvin).
 Click Convert to see the result in the other two units.
 
 📂 Project Structure
+<br>
 temperature-converter/
 ├── temperature_converter.py   # Main GUI application
 └── README.md                  # Project documentation (this file)
